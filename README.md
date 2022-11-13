@@ -3,11 +3,11 @@
 This is the *frontend* of the ticket service website we built as a part of the TU Wien 2022 SEPM course (Software Engineering and ProjectManagement). Many thanks to my lovely team!.   
 The backend is not included, instead we whipped up a *mocked* version of it. Try searching for the merchandise named `cat`. 
 
-[Check it out in action here](https://stefnotch.github.io/sepm-project/#/)
+[Check it out in action here](https://peanutrino.github.io/ticketline/#/)
 
 ![Screenshot](./screenshot.png)
 
-[**There is also the code of our spicy little code generator**](https://github.com/stefnotch/sepm-project/tree/main/backend/codegenerator#code-generator).
+[**There is also the code of our spicy little code generator**](https://github.com/peanutrino/ticketline/tree/main/backend/codegenerator#code-generator).
 
 
 ## Pretty Gifs
