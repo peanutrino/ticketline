@@ -7,7 +7,7 @@ The backend is not included, instead we whipped up a *mocked* version of it. Try
 
 ![Screenshot](./screenshot.png)
 
-[**There is also the code of our spicy little code generator**](https://github.com/peanutrino/ticketline/tree/main/backend/codegenerator#code-generator).
+[**There is also the code of our spicy little code generator**](https://github.com/peanutrino/ticketline/tree/master/backend/codegenerator).
 
 
 ## Pretty Gifs
